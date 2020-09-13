@@ -107,7 +107,7 @@ def main():
             size_k.append([1, 1, 2, 0.1])
         # returns the track result & bounding box infos for all tracks
         
-        track_result, bb_output_k = mtt.track_update(t, .2, z_k, size_k) # list of [id, positon]
+        track_result, bb_output_k = mtt.track_update(t, dt, z_k, size_k) # list of [id, positon]
         
 
         agent0_est_k = []

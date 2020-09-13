@@ -5,7 +5,7 @@ As an temporal user of the tracking algorithms (signe/ multiple traget tracking)
 
 # JPDA alg
 
-Please run [jpda.py](https://github.com/TianqiLi7398/Tracking_lib/blob/master/JPDA/jpda_agent.py)
+Please run [sim_jpda.py](https://github.com/TianqiLi7398/Tracking_lib/blob/master/JPDA/sim_jpda.py)
 for a simple demo of using single sensor multi target tracking with JPDA algorithm.
 
 Still under construction.
